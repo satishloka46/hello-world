@@ -23,11 +23,11 @@
     <module>webapp</module>
   </modules>
 
- <distributionManagement
+  <distributionManagement>
     <site>
-      <id>site-server</id>
-      <name>Test Project Site</name>
-      <url>file:///tmp/maven-project-site</url>
+        <id>site-server</id>
+        <name>Test Project Site</name>
+        <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
 
