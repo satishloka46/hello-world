@@ -23,7 +23,7 @@
     <module>webapp</module>
   </modules>
 
- Management>
+ <distributionManagement
     <site>
       <id>site-server</id>
       <name>Test Project Site</name>
