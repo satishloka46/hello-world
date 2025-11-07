@@ -105,7 +105,9 @@
                 <groupId>javax.servlet.jsp</groupId>
                 <artifactId>jsp-api</artifactId>
                 <version>2.2</version>
-                           <groupId>junit</groupId>
+            </dependency>
+            <dependency>
+               unit</groupId>
                 <artifactId>junit</artifactId>
                 <version>4.13.2</version>
                 <scope>test</scope>
@@ -133,7 +135,7 @@
 
     <scm>
         <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-        <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+       Connection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
         <tag>HEAD</tag>
         <url>http://github.com/jleetutorial/maven-project</url>
     </scm>
