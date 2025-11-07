@@ -107,7 +107,7 @@
                 <version>2.2</version>
             </dependency>
             <dependency>
-               unit</groupId>
+                <groupId>junit</groupId>
                 <artifactId>junit</artifactId>
                 <version>4.13.2</version>
                 <scope>test</scope>
@@ -135,7 +135,7 @@
 
     <scm>
         <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-       Connection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
         <tag>HEAD</tag>
         <url>http://github.com/jleetutorial/maven-project</url>
     </scm>
